@@ -1,2 +1,2 @@
 # Tenzies Game
- Tenzies is a game develop with React + TypeScript + Vite using this FreeCodeCamp's ([video](https://www.youtube.com/watch?v=x4rFhThSX04)) 
+ Tenzies is a game developed with React + TypeScript + Vite using this FreeCodeCamp's [video](https://www.youtube.com/watch?v=x4rFhThSX04)
